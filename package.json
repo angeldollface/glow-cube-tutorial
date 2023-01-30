@@ -1,6 +1,6 @@
 {
   "name": "glow-cube-tutorial",
-  "description": "My first three.js project!",
+  "description": "A three.js tutorial project for a blog post.",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
