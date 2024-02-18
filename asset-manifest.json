@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/glow-cube-tutorial/static/css/main.dccf9dd2.css",
-    "main.js": "/glow-cube-tutorial/static/js/main.a8ca5ec3.js",
+    "main.js": "/glow-cube-tutorial/static/js/main.38c1d9bc.js",
     "index.html": "/glow-cube-tutorial/index.html",
     "main.dccf9dd2.css.map": "/glow-cube-tutorial/static/css/main.dccf9dd2.css.map",
-    "main.a8ca5ec3.js.map": "/glow-cube-tutorial/static/js/main.a8ca5ec3.js.map"
+    "main.38c1d9bc.js.map": "/glow-cube-tutorial/static/js/main.38c1d9bc.js.map"
   },
   "entrypoints": [
     "static/css/main.dccf9dd2.css",
-    "static/js/main.a8ca5ec3.js"
+    "static/js/main.38c1d9bc.js"
   ]
 }
