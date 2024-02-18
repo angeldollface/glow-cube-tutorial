@@ -6,11 +6,10 @@
 
 ## ABOUT :books:
 
-Because there have been some requests to explain how three.js models are made, I thought I'd write a small tutorial on how to do so. This repository contains the source code for this tutorial *three.js* project. The link to the tutorial can be found [here](https://angeldollface.art/posts/2023-01-21-Get-Started-with-3D/).
-
+Because there have been some requests to explain how three.js models are made, I thought I'd write a small tutorial on how to do so. This repository contains the source code for this tutorial *three.js* project. The link to the tutorial can be found [here](https://angeldollface.boo/).
 ## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
-To view a live deployed version of this project and this demo, click here: [VIEW](https://angeldollface.art/glow-cube-tutorial)
+To view a live deployed version of this project and this demo, click here: [VIEW](https://angeldollface.boo/glow-cube-tutorial)
 
 ## LEARN AND RE-USE :thinking: :sparkles:
 
